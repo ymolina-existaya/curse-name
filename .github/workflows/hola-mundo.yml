@@ -1,9 +1,7 @@
-name: Ejecutar main.py
+name: Aprendiendo GitHub Actions
+run-name: ¡Estoy aprendiendo GitHub Actions!
 
-on:
-  push:
-    branches:
-      - aprendiendo-github-actions
+on: [push]
 
 jobs:
   run-main:
